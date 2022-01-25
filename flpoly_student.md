@@ -21,6 +21,11 @@ I am _passionate about_:
 
 - Reddit as shown in this website <https://www.reddit.com>
 
+**Testing Putting in a Picture**
+
+![image of a data network](dataNetwork.jpg)
+
+![image from the web](http://photos.prnewswire.com/prnfull/20150422/200461LOGO?max=200)
 ***
 
 > Last modified: 2022/01/25
